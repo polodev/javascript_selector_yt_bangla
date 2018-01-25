@@ -1,5 +1,5 @@
-# css selector 
-css has 2 types of selector 
+# Javascript selector 
+JavaScript has 2 types of selector 
 * scalar selector will return single element
 * composite selector will return array of elements.  
 
